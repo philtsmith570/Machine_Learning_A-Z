@@ -6,7 +6,7 @@
   - [Part 1 - Data Preprocessing - Preprocessing Imputer Function - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%201%20-%20Data%20Preprocessing/data_preprocessing.py)
   - [Part 2 - Regression ]  
       - [Part 2 - Simple Linear Regression ](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Simple_Linear_Regression/simple_linear_regression.py)
-      - [Part 2 - Multiple Linear Regression ](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Multiple_Linear_Regression/multiple_linear_regression.py)
+      - [Part 2 - Multiple Linear Regression ](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%202%20-%20Regression/Section%205%20-%20Multiple%20Linear%20Regression/Multiple_Linear_Regression/multiple_linear_regression.py)
       - [Part 2 - Polynomial Linear Regression ](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Simple_Linear_Regression/simple_linear_regression.py)
 
   - [Part 3 - Classification - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
