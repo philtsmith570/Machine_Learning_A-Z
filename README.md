@@ -23,7 +23,9 @@
   - Part 4 - Clustering
     - [K-Means Clustering](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/K_Means/kmeans.py)
     - [Hierarchical Clustering](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Hierarchical_Clustering/hc.py)
-  - [Part 5 - Association Rule Learning - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
+  - [Part 5 - Association Rule Learning
+    - [Apriori](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/K_Means/kmeans.py)
+    - [Eclat](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Hierarchical_Clustering/hc.py) 
   - [Part 6 - Reinforcement Learning - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
   - [Part 7 - Natural Language Processing - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
   - [Part 8 - Deep Learning - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
