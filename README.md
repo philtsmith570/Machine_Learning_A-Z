@@ -21,7 +21,8 @@
       - [Decision Tree Classification](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/Decision_Tree_Classification/decision_tree_classification.py)
       - [Random Forest Classification](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/Decision_Tree_Classification/random_forest_classification.py) 
   - Part 4 - Clustering
-    - [Random Forest Classification](https://github.com/philtsmith570/Machine_Learning_A-Z/)
+    - [K-Means Clustering](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/K_Means/kmeans.py)
+    - [Hierarchical Clustering](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/K_Means/kmeans.py)
   - [Part 5 - Association Rule Learning - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
   - [Part 6 - Reinforcement Learning - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
   - [Part 7 - Natural Language Processing - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
