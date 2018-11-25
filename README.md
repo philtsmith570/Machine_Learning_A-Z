@@ -18,7 +18,7 @@
       - [Support Vector Machine (SVM)](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%203%20-%20Classification/Section%2016%20-%20Support%20Vector%20Machine%20(SVM)/SVM/svm.py)
       - [Kernel SVM](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%203%20-%20Classification/Section%2017%20-%20Kernel%20SVM/Kernel_SVM/kernel_svm.py)
       - [Naive Bayes](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%203%20-%20Classification/Section%2018%20-%20Naive%20Bayes/Naive_Bayes/naive_bayes.py)
-      - [Decision Tree Classification](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/Random_Forest_Regression/decision_tree_classification.py)
+      - [Decision Tree Classification](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/Decision_Tree_Classification/decision_tree_classification.py)
     
   - [Part 4 - Clustering - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
   - [Part 5 - Association Rule Learning - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
