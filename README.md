@@ -29,8 +29,10 @@
     - [Upper Confidence Bound (UCB)](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/UCB/upper_confidence_bound.py)
     - [Thompson Sampling](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%206%20-%20Reinforcement%20Learning/Section%2033%20-%20Thompson%20Sampling/Thompson_Sampling/thompson_sampling.py)
   - Part 7 - Natural Language Processing
-    - [Natural Language Processing](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%206%20-%20Reinforcement%20Learning/Section%2033%20-%20Thompson%20Sampling/Thompson_Sampling/natural_language_processing.py)
+    - [Natural Language Processing](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%207%20-%20Natural%20Language%20Processing/Section%2036%20-%20Natural%20Language%20Processing/Natural_Language_Processing/natural_language_processing.py)
   - Part 8 - Deep Learning
+    - [Artificial Neural Networks](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%207%20-%20Natural%20Language%20Processing/Section%2036%20-%20Natural%20Language%20Processing/Natural_Language_Processing/ann.py)
+    - [Concolutional Neural Networks](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%207%20-%20Natural%20Language%20Processing/Section%2036%20-%20Natural%20Language%20Processing/Natural_Language_Processing/cnn.py)
   - Part 9 - Dimensionality Reduction
 
 
