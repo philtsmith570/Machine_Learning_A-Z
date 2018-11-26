@@ -23,13 +23,14 @@
   - Part 4 - Clustering
     - [K-Means Clustering](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/K_Means/kmeans.py)
     - [Hierarchical Clustering](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Hierarchical_Clustering/hc.py)
-  - [Part 5 - Association Rule Learning
+  - Part 5 - Association Rule Learning
     - [Apriori](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/Apriori_Python/apriori.py)
-  - [Part 6 - Reinforcement Learning
+  - Part 6 - Reinforcement Learning
     - [Upper Confidence Bound (UCB)](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/UCB/upper_confidence_bound.py)
     - [Thompson Sampling](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%206%20-%20Reinforcement%20Learning/Section%2033%20-%20Thompson%20Sampling/Thompson_Sampling/thompson_sampling.py)
-  - [Part 7 - Natural Language Processing - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
-  - [Part 8 - Deep Learning - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
-  - [Part 9 - Dimensionality Reduction - Project 1 - Data Preprocessing](https://github.com/philtsmith570/Machine_Learning_A-Z/)
+  - Part 7 - Natural Language Processing
+    - [Natural Language Processing](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%206%20-%20Reinforcement%20Learning/Section%2033%20-%20Thompson%20Sampling/Thompson_Sampling/natural_language_processing.py)
+  - Part 8 - Deep Learning
+  - Part 9 - Dimensionality Reduction
 
 
