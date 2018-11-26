@@ -36,5 +36,5 @@
   - Part 9 - Dimensionality Reduction
     - [Principal Component Analysis (PCA)](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%209%20-%20Dimensionality%20Reduction/Section%2043%20-%20Principal%20Component%20Analysis%20(PCA)/PCA/pca.py)
      - [Linear Discriminant Analysis (LDA)](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%209%20-%20Dimensionality%20Reduction/Section%2044%20-%20Linear%20Discriminant%20Analysis%20(LDA)/LDA/lda.py)
-      - [Kernel PCA](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%207%20-%20Natural%20Language%20Processing/Section%2036%20-%20Natural%20Language%20Processing/Natural_Language_Processing/ann.py)
+      - [Kernel PCA](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%209%20-%20Dimensionality%20Reduction/Section%2045%20-%20Kernel%20PCA/Kernel_PCA/pca.py)
 
