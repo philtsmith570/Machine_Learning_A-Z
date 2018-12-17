@@ -10,8 +10,6 @@
 
 ## Introduction
 ## Course Description
-Interested in the field of Machine Learning? Then this course is for you!
-
 This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms and coding libraries in a simple way.
 
 We will walk you step-by-step into the World of Machine Learning. With every tutorial you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science.
@@ -30,9 +28,6 @@ This course is fun and exciting, but at the same time we dive deep into Machine 
     Part 8 - Deep Learning: Artificial Neural Networks, Convolutional Neural Networks
     Part 9 - Dimensionality Reduction: PCA, LDA, Kernel PCA
     Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
-
-Moreover, the course is packed with practical exercises which are based on real-life examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.
-
 
 ## Programming Assignments
 
