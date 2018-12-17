@@ -68,8 +68,9 @@ This course is fun and exciting, but at the same time we dive deep into Machine 
      - [Linear Discriminant Analysis (LDA)](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%209%20-%20Dimensionality%20Reduction/Section%2044%20-%20Linear%20Discriminant%20Analysis%20(LDA)/LDA/lda.py)
       - [Kernel PCA](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%209%20-%20Dimensionality%20Reduction/Section%2045%20-%20Kernel%20PCA/Kernel_PCA/kernel_pca.py)
   - Part 10 - Model Selection and Boosting (XGBoost)
-    - [Model Selection](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%2010%20-%20Model%20Selection%20%26%20Boosting/Section%2048%20-%20Model%20Selection/Model_Selection/pca.py)
-     - [XGBoost](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%209%20-%20Dimensionality%20Reduction/Section%2044%20-%20Linear%20Discriminant%20Analysis%20(LDA)/LDA/lda.py)
+    - [Model Selection - Grid Search](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%2010%20-%20Model%20Selection%20%26%20Boosting/Section%2048%20-%20Model%20Selection/grid_search.py)
+    - [Model Selection - K-fold Cross Validation](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%2010%20-%20Model%20Selection%20%26%20Boosting/Section%2048%20-%20Model%20Selection/Model_Selection/k_fold_cross_validation.py)
+    - [XGBoost](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%2010%20-%20Model%20Selection%20%26%20Boosting/Section%2049%20-%20XGBoost/XGBoost/xgboost.py)
 ## Course Milestones
 - Course completed: 10/28/18!
 - [Course Certificate](https://github.com/philtsmith570/Machine_Learning_A-Z/blob/master/Machine_Learning_A-Z.pdf)
