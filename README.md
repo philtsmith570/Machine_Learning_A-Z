@@ -1,5 +1,6 @@
 # Machine Learning A-Z
-**Master Deep Learning, and Break into AI**
+**Master Machine LearningAbout this course
+**Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. **
 
 ### Instructors: 
     -Kirill Eremenko
