@@ -1,5 +1,10 @@
 # Machine Learning A-Z
+**Master Deep Learning, and Break into AI**
 
+Instructors: Kirill Eremenko
+             Hadelin de Ponteves
+
+## Introduction
 ## Course Description
 Interested in the field of Machine Learning? Then this course is for you!
 
