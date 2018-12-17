@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# SupportVectorReg
 """
 Created on Sun Feb 18 11:24:55 2018
 
