@@ -6,7 +6,7 @@
 
 ##  Instructors: 
 - [Kirill Eremenko - CEO at SDS](https://au.linkedin.com/in/keremenko)
--Hadelin de Ponteves
+- [Hadelin de Ponteves - AI Entrepreneur](https://www.udemy.com/user/hadelin-de-ponteves/)
 
 ## Introduction
 ## Course Description
