@@ -1,8 +1,8 @@
 # Machine Learning A-Z
 **Master Deep Learning, and Break into AI**
 
-Instructors: Kirill Eremenko
-
+Instructors: 
+             Kirill Eremenko
              Hadelin de Ponteves
 
 ## Introduction
