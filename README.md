@@ -61,7 +61,7 @@ This course is fun and exciting, but at the same time we dive deep into Machine 
   - Part 7 - Natural Language Processing
     - [Natural Language Processing](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%207%20-%20Natural%20Language%20Processing/Section%2036%20-%20Natural%20Language%20Processing/Natural_Language_Processing/natural_language_processing.py)
   - Part 8 - Deep Learning
-    - [Artificial Neural Networks](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%207%20-%20Natural%20Language%20Processing/Section%2036%20-%20Natural%20Language%20Processing/Natural_Language_Processing/ann.py)
+    - [Artificial Neural Networks](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%208%20-%20Deep%20Learning/Section%2039%20-%20Artificial%20Neural%20Networks%20(ANN)/Artificial_Neural_Networks/ann.py)
     - [Convolutional Neural Networks](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%208%20-%20Deep%20Learning/Section%2040%20-%20Convolutional%20Neural%20Networks%20(CNN)/Convolutional_Neural_Networks/cnn.py)
   - Part 9 - Dimensionality Reduction
     - [Principal Component Analysis (PCA)](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%209%20-%20Dimensionality%20Reduction/Section%2043%20-%20Principal%20Component%20Analysis%20(PCA)/PCA/pca.py)
