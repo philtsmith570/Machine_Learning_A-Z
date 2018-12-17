@@ -66,3 +66,4 @@ Moreover, the course is packed with practical exercises which are based on real-
 
 ## Course Milestones
 Course completed 10/28/18!
+- [Course Certificate](https://github.com/philtsmith570/Machine_Learning_A-Z/Machine_Learning_A-Z.pdf
