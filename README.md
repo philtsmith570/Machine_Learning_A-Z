@@ -2,6 +2,7 @@
 **Master Deep Learning, and Break into AI**
 
 Instructors: Kirill Eremenko
+
              Hadelin de Ponteves
 
 ## Introduction
