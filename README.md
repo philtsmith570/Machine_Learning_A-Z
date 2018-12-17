@@ -1,9 +1,11 @@
 # Machine Learning A-Z
-**Master Machine LearningAbout this course
-**Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. **
+**Master Machine Learning Algorithms**
 
-### Instructors: 
-    -Kirill Eremenko
+# About this course
+**Learn to create Machine Learning Algorithms in Python and R from two Data Science experts.**
+
+##  Instructors: 
+    -[Kirill Eremenko] - CEO at SDS](https://au.linkedin.com/in/keremenko)
     -Hadelin de Ponteves
 
 ## Introduction
