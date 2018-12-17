@@ -65,5 +65,5 @@ Moreover, the course is packed with practical exercises which are based on real-
       - [Kernel PCA](https://github.com/philtsmith570/Machine_Learning_A-Z/tree/master/Machine%20Learning%20A-Z%20Folder/Part%209%20-%20Dimensionality%20Reduction/Section%2045%20-%20Kernel%20PCA/Kernel_PCA/kernel_pca.py)
 
 ## Course Milestones
-Course completed 10/28/18!
-     - [Course Certificate](https://github.com/philtsmith570/Machine_Learning_A-Z/Machine_Learning_A-Z.pdf
+- Course completed: 10/28/18!
+- [Course Certificate](https://github.com/philtsmith570/Machine_Learning_A-Z/Machine_Learning_A-Z.pdf)
